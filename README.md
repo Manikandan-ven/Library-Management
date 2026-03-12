@@ -38,6 +38,27 @@ PACKAGE DIAGRAM
 <img width="971" height="643" alt="445708806-e4c3b466-1178-473b-9c81-843938043203" src="https://github.com/user-attachments/assets/ecc92f47-5594-4141-9009-f7ccac2f7a05" />
 
 SEQUENCE DIAGRAM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <img width="872" height="753" alt="445709560-f32ee352-ce9a-4510-9b22-54a9e04b12f7" src="https://github.com/user-attachments/assets/6a856bd3-77b7-41db-a061-82034eec67fd" />
 
 ### RESULT:
